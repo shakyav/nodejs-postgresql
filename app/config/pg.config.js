@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "localhost",
+    HOST: "db",
     USER: "test123",
     PASSWORD: "test123",
     DB: "node-backenddb",
